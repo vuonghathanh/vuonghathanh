@@ -11,3 +11,7 @@ I'm Thanh, a 22 years old web developer from Viet Nam
 - 👁️ CSS
 - 💽 MySQL, SQL, Mongo, Postgresql
   + a lot more :D
+
+## Contact
+- [@doggys_king](https://t.me/doggys_king) on Telegram
+- [vuongthanh0111@gmail.com](./) on Gmail
