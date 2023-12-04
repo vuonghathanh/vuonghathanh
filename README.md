@@ -3,8 +3,6 @@
 </h1>
 
 ## Hey! 👋
-I'm Thanh, a 22 years old web developer from Viet Nam
-
 - 🦔 FullStack developer of [FCS](https://www.fcs.ninja/)
 
 ## Skills
